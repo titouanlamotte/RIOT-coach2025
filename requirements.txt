@@ -1,0 +1,10 @@
+###         RIOT-flexteamcoach              ###
+mysql-connector-python
+requests
+
+###         Requirements Discord bot        ###
+discord
+
+###          Requirements Crawler           ###
+
+###                                         ###

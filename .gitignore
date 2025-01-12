@@ -1,3 +1,10 @@
+#Coach2025 project
+config.py
+secrets.json
+secrets.py
+init.json
+databases.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
